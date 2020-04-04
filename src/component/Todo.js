@@ -41,6 +41,7 @@ export default class Todo extends Component {
                 <div className="header">TODO LIST</div>
                 <div className="body">
                     <ul>
+                        <p>this is item list</p>
                         {itemList}
                     </ul>
                 </div>
